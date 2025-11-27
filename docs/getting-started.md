@@ -171,7 +171,7 @@ If your addons don't use the database, you can ignore this file entirely. Core o
 
 ### Development Mode
 
-Start the bot in development mode with hot-reloading:
+Runs the bots source code:
 
 ```bash
 npm run dev
